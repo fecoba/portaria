@@ -1,0 +1,9 @@
+.header{
+	background-color: #e6e6e6;
+	width: 90%;
+	text-align: center;
+	border: 5px solid;
+}
+.total{
+	text-align: right;
+}
